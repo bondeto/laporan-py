@@ -15,6 +15,7 @@ Generator laporan otomatis menggunakan template Word dengan Python.
    ```
 
 ## Format Input
+
 - Tanggal harus dalam format: DD Bulan YYYY (contoh: 09 Mei 2025)
 - Bulan menggunakan Bahasa Indonesia
 - Tekan Enter dua kali untuk mengakhiri input yang membutuhkan multiple entries
