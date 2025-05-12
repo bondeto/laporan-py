@@ -2,3 +2,7 @@ laporan_atensi.docx
 __pycache__/
 *.pyc
 .DS_Store
+venv/
+env/
+.env/
+.venv/
